@@ -1,0 +1,5 @@
+# import pyfiglet module 
+import pyfiglet 
+
+result = pyfiglet.figlet_format("Kierby", font="slant") 
+print(result) 
